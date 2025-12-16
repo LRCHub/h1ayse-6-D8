@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ぽっぴんジャンプ♪",
+  "base_artist": "chimametai",
+  "createdAt": "2025-12-16T19:29:21.253398Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぽっぴんジャンプ♪",
+      "artist": "chimametai",
+      "has_synced": true,
+      "path": "select/01_ぽっぴんジャンプ♪_chimametai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ぽっぴんジャンプ♪",
+      "artist": "チマメ隊",
+      "has_synced": true,
+      "path": "select/02_ぽっぴんジャンプ♪_チマメ隊.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ぽっぴんジャンプ♪ (Instrumental)",
+      "artist": "チマメ隊",
+      "has_synced": true,
+      "path": "select/03_ぽっぴんジャンプ♪_(Instrumental)_チマメ隊.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ぽっぴんジャンプ♪ ~メグVer.~",
+      "artist": "チマメ隊",
+      "has_synced": false,
+      "path": "select/04_ぽっぴんジャンプ♪_~メグVer.~_チマメ隊.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ぽっぴんジャンプ♪ ~チノVer.~",
+      "artist": "チマメ隊",
+      "has_synced": false,
+      "path": "select/05_ぽっぴんジャンプ♪_~チノVer.~_チマメ隊.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ぽっぴんジャンプ♪ ~マヤVer.~",
+      "artist": "チマメ隊",
+      "has_synced": false,
+      "path": "select/06_ぽっぴんジャンプ♪_~マヤVer.~_チマメ隊.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ぽっぴんジャンプ♪〜チノVer.〜",
+      "artist": "チマメ隊",
+      "has_synced": false,
+      "path": "select/07_ぽっぴんジャンプ♪〜チノVer.〜_チマメ隊.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ぽっぴんジャンプ♪〜メグVer.〜",
+      "artist": "チマメ隊",
+      "has_synced": true,
+      "path": "select/08_ぽっぴんジャンプ♪〜メグVer.〜_チマメ隊.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ぽっぴんジャンプ♪〜マヤVer.〜",
+      "artist": "チマメ隊",
+      "has_synced": false,
+      "path": "select/09_ぽっぴんジャンプ♪〜マヤVer.〜_チマメ隊.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ぽっぴんジャンプ ~マヤVer.~",
+      "artist": "チマメ隊( チノ（水瀬いのり）・マヤ（徳井青空）・メグ（村川梨衣）)",
+      "has_synced": true,
+      "path": "select/10_ぽっぴんジャンプ_~マヤVer.~_チマメ隊(_チノ(水瀬いのり)・マヤ(徳井青空)・メグ(村川梨衣)).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ぽっぴんジャンプ (Instrumental)",
+      "artist": "チマメ隊( チノ（水瀬いのり）・マヤ（徳井青空）・メグ（村川梨衣）)",
+      "has_synced": true,
+      "path": "select/11_ぽっぴんジャンプ_(Instrumental)_チマメ隊(_チノ(水瀬いのり)・マヤ(徳井青空)・メグ(村川梨衣)).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ぽっぴんジャンプ♪",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/12_ぽっぴんジャンプ♪_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ぽっぴんジャンプ",
+      "artist": "チマメ隊( チノ（水瀬いのり）・マヤ（徳井青空）・メグ（村川梨衣）)",
+      "has_synced": true,
+      "path": "select/13_ぽっぴんジャンプ_チマメ隊(_チノ(水瀬いのり)・マヤ(徳井青空)・メグ(村川梨衣)).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ぽっぴんジャンプ ~チノVer.~",
+      "artist": "チマメ隊( チノ（水瀬いのり）・マヤ（徳井青空）・メグ（村川梨衣）)",
+      "has_synced": false,
+      "path": "select/14_ぽっぴんジャンプ_~チノVer.~_チマメ隊(_チノ(水瀬いのり)・マヤ(徳井青空)・メグ(村川梨衣)).txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ぽっぴんジャンプ♪～マヤVersion～",
+      "artist": "chimametai",
+      "has_synced": true,
+      "path": "select/15_ぽっぴんジャンプ♪~マヤVersion~_chimametai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぽっぴんジャンプ♪",
+      "artist": "チマメ隊",
+      "has_synced": false,
+      "path": "select/pl_01_ぽっぴんジャンプ♪_チマメ隊.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ぽっぴんジャンプ♪",
+      "artist": "チマメ隊",
+      "has_synced": false,
+      "path": "select/pl_02_ぽっぴんジャンプ♪_チマメ隊.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ぽっぴんジャンプ♪",
+      "artist": "チマメ隊",
+      "has_synced": false,
+      "path": "select/pl_03_ぽっぴんジャンプ♪_チマメ隊.txt"
+    }
+  ]
+}
